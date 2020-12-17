@@ -1,0 +1,20 @@
+{
+  "name": "teste-console",
+  "version": "1.0.0",
+  "description": "Teste implementação pacote npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/walteryoshio/teste-npm.git"
+  },
+  "keywords": ["teste"],
+  "author": "walteryoshio <walter.kudo@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/walteryoshio/teste-npm/issues"
+  },
+  "homepage": "https://github.com/walteryoshio/teste-npm#readme"
+}
